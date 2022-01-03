@@ -1,4 +1,4 @@
-## Hi there 👋, I'm AToska21. I'm a new coder and I own a VPS that I do random stuff with.
+## Hi there 👋, I'm Natsuki.HX. I'm a new coder and I own a VPS that I do random stuff with.
 
 This is what I do:
 
