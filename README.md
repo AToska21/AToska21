@@ -2,11 +2,11 @@
 
 This is what I do:
 
-- 🔭 I’m currently working on my app, iChatGPT.
+- 🔭 I’m currently working on my app, iChatbot3.
 - 🌱 I’m currently learning Swift and Java.
 - 👯 I’m looking to collaborate on creating an app.
-- 🤔 I’m looking for help with my new app, iChatGPT.
+- 🤔 I’m looking for help with my new discord bot, DCGPT.
 - 💬 Ask me about anything.
-- 📫 How to reach me: Use my email andrea@abmanagement.al OR my discord Monomouse#0668
+- 📫 How to reach me: Use my email andrea@abmanagement.al OR my discord ID 642259365440520192 (you can search my current name [here](https;//discord.id))
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was in the Top 3 of the Albanian ICT Awards X!
