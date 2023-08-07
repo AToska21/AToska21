@@ -2,6 +2,8 @@
 
 This is what I do:
 
+- 🏫 I attend the school Kings Tirana, I finished Year 8 on June 16th.
+- 📫 My school email is andrea.toska@kingstirana.net, but the staff use kingstirana.com domains for whatever reason.
 - 🔭 I’m currently working on my app, iChatbot3.
 - 🌱 I’m currently learning Swift and Java.
 - 👯 I’m looking to collaborate on creating an app.
